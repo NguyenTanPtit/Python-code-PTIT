@@ -1,0 +1,11 @@
+# slice string
+s = input()
+print(len(s))
+print(s[len(s)-4:])
+print(s[::-2])
+print(s[:len(s)-2])
+print(s[:5])
+print(s[::2])
+print(s[1::2])
+print(s[::-1])
+print(s[len(s)-2])
